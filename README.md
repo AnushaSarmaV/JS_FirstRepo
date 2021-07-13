@@ -4,9 +4,10 @@ Forkify project--search for a Recipe
 Search recipes from all around the world
 
 Just search for the recipe you want , the app shows you the ingredients required. 
+
 customise the ingredients as per the servings
-Can Book mark your favourite recipes
-add your own recipe 
+Can Bookmark your favourite recipes.
+Add your own recipe.
 
 Forkify is a recipe finder/builder application built from the The Complete JavaScript Course 2021: Build Real Projects! udemy course. 
 The application is built HTML5, CSS3, JavaScript, Parcel.
